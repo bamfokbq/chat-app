@@ -118,6 +118,12 @@ button:disabled {
     margin-bottom: 16px;   
 }
 
+.message-box{
+    width: max-content;
+    background-color: #ff3d23;
+    
+}
+
 .message__name {
     font-weight: 600;
     font-size: 14px;
